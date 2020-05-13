@@ -1,0 +1,14 @@
+1 Enemy1
+2 Enemy2
+3 Enemy3
+w Wave
+a Boss1
++ HealthPack
+4 Enemy4
+5 Enemy5
+6 Enemy6
+b Boss2
+7 Enemy7
+8 Enemy8
+9 Enemy9
+c Boss3
